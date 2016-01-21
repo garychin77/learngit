@@ -4,3 +4,4 @@ Third line.
 Stupid!
 Create new branch is quick & simple!
 Test merge.
+push dev
