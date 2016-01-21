@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Third line.
 Stupid!
 Create new branch is quick & simple!
+Test merge.
